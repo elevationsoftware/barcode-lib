@@ -1,0 +1,22 @@
+{
+    "name": "barcode-lib",
+    "version": "1.0.0",
+    "description": "Generate an svg of a boarding pass barcode. ",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elevationsoftware/barcode-lib.git"
+    },
+    "keywords": [
+        "boardingpass"
+    ],
+    "author": "ElevationSoftware",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/elevationsoftware/barcode-lib/issues"
+    },
+    "homepage": "https://github.com/elevationsoftware/barcode-lib#readme"
+}
